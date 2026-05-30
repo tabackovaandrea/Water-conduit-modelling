@@ -18,16 +18,16 @@ The `videos` directory contains simulation outputs corresponding to the same sim
 ## Simulations
 
 ### Valve opening
-<video src="videos/valve_opening.mp4" controls></video>
+https://github.com/tabackovaandrea/Water-conduit-modelling/blob/main/videos/valve_opening.mp4
 
 ### Valve closure
-<video src="videos/valve_closure.mp4" controls></video>
+https://github.com/tabackovaandrea/Water-conduit-modelling/blob/main/videos/valve_closure.mp4
 
 ### Partial valve opening
-<video src="videos/partial_valve_opening.mp4" controls></video>
+https://github.com/tabackovaandrea/Water-conduit-modelling/blob/main/videos/partial_valve_opening.mp4
 
 ### Partial valve closure
-<video src="videos/partial_valve_closure.mp4" controls></video>
+https://github.com/tabackovaandrea/Water-conduit-modelling/blob/main/videos/partial_valve_closure.mp4
 
 ## Author 
 
